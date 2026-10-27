@@ -1,0 +1,10 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporary / editor files
+.vscode/
+*.swp
+*.bak
